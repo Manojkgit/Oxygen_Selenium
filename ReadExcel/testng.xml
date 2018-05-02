@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="TestA">
+    <classes>
+      <class name="frameWork.DummyTestA"/>
+    </classes>
+  </test>
+  
+  <test name="TestB">
+    <classes>
+      <class name="frameWork.DummyTestB"/>
+    </classes>
+  </test>
+  
+  <test name="TestC">
+    <classes>
+      <class name="frameWork.DummyTestC"/>
+    </classes>
+  </test>
+   <!-- Test -->
+</suite> <!-- Suite -->
